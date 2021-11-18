@@ -12,9 +12,9 @@
 
 4. Save the SSH key in your Github.<br>
 
-5. CLone the github project using SSH.<br>
+5. Clone the github project using SSH.<br>
 
-6. `cd <github_project`<br>
+6. `cd <github_project>`<br>
 
 7. Create Makefile, Dockerfile, app.py, requirements.txt.<br>
 
